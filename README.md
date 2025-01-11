@@ -1,4 +1,4 @@
-Ndless r2019 for TI-Nspire OS <= v5.3.0.564
+Ndless r2025 BETA for TI-Nspire OS <= v5.3.0.564
 ===========================================
 
 Installing Ndless on your calculator makes it possible to run assembly programs.
@@ -27,6 +27,8 @@ For more in-depth info, visit the wiki:
 
 ->    https://hackspire.org
 
+
+This fork is only for finding 5.4+ exploits. The main branch may be more up to date!
 Quick guide
 ===========
 
