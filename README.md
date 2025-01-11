@@ -1,6 +1,7 @@
 Ndless for 5.4 r2025 BETA for TI-Nspire OS <= v5.3.0.564
 ===========================================
 
+This is not made by the Ndless team! I am not responsible for bricks!
 Installing Ndless on your calculator makes it possible to run assembly programs.
 
 Ndless combines an executable loader and utilities to open the TI-Nspire to third-party C and assembly development.
